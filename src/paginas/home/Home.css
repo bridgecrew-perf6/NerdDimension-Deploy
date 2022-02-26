@@ -1,0 +1,22 @@
+.bgColorHome{
+    background-color: #000000;
+}
+
+.titulosHome{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.buttonHome{
+    border-color: white !important; 
+    background-color: #FFD700 !important; 
+    color: white !important;
+}
+
+.postagensHome{
+    background-color: white;
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}

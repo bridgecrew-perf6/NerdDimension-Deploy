@@ -1,0 +1,27 @@
+.bgColorBox1{
+    background-color: #FFD700;
+    height: 120px;
+}
+
+.bgColorBox2{
+    background-color: #000;
+    height: 60px;
+}
+
+.tituloFooter{
+    color: black;
+    font-weight: bold !important;
+}
+
+.tituloFooterCopy{
+    color: white;
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}
+
+.redeSocial{
+    font-size: 60px !important;
+    color: black;
+}

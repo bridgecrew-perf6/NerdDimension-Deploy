@@ -1,0 +1,12 @@
+.bgColor{
+    background-color: #FFD700 !important;
+}
+
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
